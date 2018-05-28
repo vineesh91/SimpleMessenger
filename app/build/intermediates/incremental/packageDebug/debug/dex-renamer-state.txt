@@ -1,0 +1,4 @@
+#Fri Feb 09 14:41:04 EST 2018
+base.0=C\:\\Users\\vinee\\Documents\\CSE586\\Projects\\SimpleMessenger-vineeshravindran\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
